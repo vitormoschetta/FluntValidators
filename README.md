@@ -2,6 +2,10 @@
 
 Implementação da biblioteca [Flunt](https://github.com/andrebaltieri/flunt)
 
+Você pode seguir as orientações do repositório oficial para a instalação da dll.
+
+Pode ainda baixar o código fonte e utilizar junto ao seu projeto, seja no mesmo domínio ou em domínio separado.
+
 ### Entidade Produto
 Valida e Adiciona as Notificações no próprio Construtor. 
 Nessa entidade usamos apenas tipos primitivos como parâmetros:
